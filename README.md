@@ -10,7 +10,7 @@ potholes<br>
 |    |--train<br>
 |    |--val<br>
 |    `--test<br>
-`--labels
-     |--train
-     |--val
-     `--test
+`--labels<br>
+     |--train<br>
+     |--val<br>
+     `--test<br>
