@@ -6,3 +6,4 @@ Preprocessing of dataset for detection model.
 <br>
 ![Tree](Tree.jpg)
 <br>This folder to be placed in downloaded repository from the link https://github.com/ultralytics/yolov5.git
+<be>Check repo instructions and change parameters accordingly and perform training.
