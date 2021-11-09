@@ -7,7 +7,7 @@ This folder to placen in downloaded repository from the link https://github.com/
 
 potholes<br>
 |--images<br>
-|<t>    |--train<br>
+|<p>    |--train<br>
 |    |--val<br>
 |    `--test<br>
 `--labels
